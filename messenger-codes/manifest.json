@@ -1,7 +1,7 @@
 {
 	"250ac78e": {
 		"uri": "https://scontent.xx.fbcdn.net/v/t39.8917-6/29797435_2109993992351966_1174569067491622912_n.png?_nc_cat=0&oh=fb20c6dd7a511f5860367e81e50e0f7b&oe=5B65D507",
-		"ref": "aam-booth",
+		"ref": "cmnh-checkin",
 		"description": "AAM Booth Marker"
 	},
 	"5099658e": {
@@ -18,5 +18,10 @@
 		"uri": "https://scontent.xx.fbcdn.net/v/t39.8917-6/31444131_1790611000996998_1652905278963712_n.png?_nc_cat=0&oh=e04ab3f7dcd6484cc21d7d556ffad941&oe=5B5910D8",
 		"ref": "airport",
 		"description": "airport onboarding at CC"
+	},
+	"30f65153": {
+		"uri": "https://scontent.xx.fbcdn.net/v/t39.8917-6/31482348_2060851100610687_2743661508532633600_n.png?_nc_cat=0&oh=4d67eaade5dd1accb42fd61fdf122a23&oe=5B62ADC4",
+		"ref": "AamPoll",
+		"description": "Poll code for Brillo at AAM"
 	}
 }
