@@ -28,5 +28,10 @@
 		"uri": "https://scontent.xx.fbcdn.net/v/t39.8917-6/31482348_2060851100610687_2743661508532633600_n.png?_nc_cat=0&oh=4d67eaade5dd1accb42fd61fdf122a23&oe=5B62ADC4",
 		"ref": "AamPoll",
 		"description": "Poll code for Brillo at AAM"
+	},
+	"44657fae": {
+		"uri": "https://scontent.xx.fbcdn.net/v/t39.8917-6/32738305_2033166863378541_169360962892070912_n.png?_nc_cat=0&oh=cb575a1807bff5589167c8fd9bebdfdc&oe=5B8408DB",
+		"ref": "stamp-checkin-csc",
+		"description": "Checkin for CSC"
 	}
 }
